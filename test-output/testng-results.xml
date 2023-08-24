@@ -2,146 +2,146 @@
 <testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-23T22:20:55 IST" name="Suite" finished-at="2023-07-23T22:23:21 IST" duration-ms="145420">
+  <suite started-at="2023-08-21T16:58:07 IST" name="Suite" finished-at="2023-08-21T17:00:28 IST" duration-ms="141362">
     <groups>
     </groups>
-    <test started-at="2023-07-23T22:20:55 IST" name="Test" finished-at="2023-07-23T22:23:21 IST" duration-ms="145420">
+    <test started-at="2023-08-21T16:58:07 IST" name="Test" finished-at="2023-08-21T17:00:28 IST" duration-ms="141362">
       <class name="actualTests.RegisterUser">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:08 IST" name="setup" finished-at="2023-07-23T22:21:18 IST" duration-ms="9755" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:22 IST" name="setup" finished-at="2023-08-21T16:58:30 IST" duration-ms="7873" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_navigates_to_register_account_page()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:18 IST" name="user_navigates_to_register_account_page" finished-at="2023-07-23T22:21:20 IST" duration-ms="1487" status="PASS">
+        <test-method signature="user_navigates_to_register_account_page()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:30 IST" name="user_navigates_to_register_account_page" finished-at="2023-08-21T16:58:32 IST" duration-ms="1849" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_navigates_to_register_account_page -->
-        <test-method signature="user_enters_the_details_to_register()[pri:1, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:20 IST" name="user_enters_the_details_to_register" finished-at="2023-07-23T22:21:21 IST" duration-ms="1212" status="PASS">
+        <test-method signature="user_enters_the_details_to_register()[pri:1, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:32 IST" name="user_enters_the_details_to_register" finished-at="2023-08-21T16:58:33 IST" duration-ms="1179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_enters_the_details_to_register -->
-        <test-method signature="user_clicks_on_continue_button()[pri:2, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:21 IST" name="user_clicks_on_continue_button" finished-at="2023-07-23T22:21:22 IST" duration-ms="1097" status="PASS">
+        <test-method signature="user_clicks_on_continue_button()[pri:2, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:33 IST" name="user_clicks_on_continue_button" finished-at="2023-08-21T16:58:34 IST" duration-ms="1130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_clicks_on_continue_button -->
-        <test-method signature="user_account_should_get_created_successfully()[pri:3, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:22 IST" name="user_account_should_get_created_successfully" finished-at="2023-07-23T22:21:25 IST" duration-ms="3306" status="PASS">
+        <test-method signature="user_account_should_get_created_successfully()[pri:3, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:34 IST" name="user_account_should_get_created_successfully" finished-at="2023-08-21T16:58:37 IST" duration-ms="3294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_account_should_get_created_successfully -->
-        <test-method signature="user_clicks_on_account_logout()[pri:4, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:25 IST" name="user_clicks_on_account_logout" finished-at="2023-07-23T22:21:26 IST" duration-ms="878" status="PASS">
+        <test-method signature="user_clicks_on_account_logout()[pri:4, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:37 IST" name="user_clicks_on_account_logout" finished-at="2023-08-21T16:58:38 IST" duration-ms="985" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_clicks_on_account_logout -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-07-23T22:21:26 IST" name="tearDown" finished-at="2023-07-23T22:21:27 IST" duration-ms="975" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.RegisterUser@4201c465]" started-at="2023-08-21T16:58:38 IST" name="tearDown" finished-at="2023-08-21T16:58:39 IST" duration-ms="993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- actualTests.RegisterUser -->
       <class name="actualTests.PlaceOrderAsRegisteredUser">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-07-23T22:22:50 IST" name="setup" finished-at="2023-07-23T22:23:00 IST" duration-ms="9730" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-08-21T17:00:00 IST" name="setup" finished-at="2023-08-21T17:00:08 IST" duration-ms="7767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-07-23T22:23:00 IST" name="user_opens_the_application" finished-at="2023-07-23T22:23:00 IST" duration-ms="4" status="PASS">
+        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-08-21T17:00:08 IST" name="user_opens_the_application" finished-at="2023-08-21T17:00:08 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_opens_the_application -->
-        <test-method signature="user_proceeding_for_checkout_product_as_registered_user()[pri:1, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-07-23T22:23:00 IST" name="user_proceeding_for_checkout_product_as_registered_user" finished-at="2023-07-23T22:23:20 IST" duration-ms="19512" status="PASS">
+        <test-method signature="user_proceeding_for_checkout_product_as_registered_user()[pri:1, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-08-21T17:00:08 IST" name="user_proceeding_for_checkout_product_as_registered_user" finished-at="2023-08-21T17:00:27 IST" duration-ms="19335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_proceeding_for_checkout_product_as_registered_user -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-07-23T22:23:20 IST" name="tearDown" finished-at="2023-07-23T22:23:21 IST" duration-ms="1076" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.PlaceOrderAsRegisteredUser@4e5ed836]" started-at="2023-08-21T17:00:27 IST" name="tearDown" finished-at="2023-08-21T17:00:28 IST" duration-ms="993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- actualTests.PlaceOrderAsRegisteredUser -->
       <class name="actualTests.ForgottenPassword">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-07-23T22:22:04 IST" name="setup" finished-at="2023-07-23T22:22:14 IST" duration-ms="9576" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-08-21T16:59:16 IST" name="setup" finished-at="2023-08-21T16:59:23 IST" duration-ms="7496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-07-23T22:22:14 IST" name="user_opens_the_application" finished-at="2023-07-23T22:22:14 IST" duration-ms="2" status="PASS">
+        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-08-21T16:59:23 IST" name="user_opens_the_application" finished-at="2023-08-21T16:59:23 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_opens_the_application -->
-        <test-method signature="user_clicks_on_login_button_from_myaccount()[pri:1, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-07-23T22:22:14 IST" name="user_clicks_on_login_button_from_myaccount" finished-at="2023-07-23T22:22:15 IST" duration-ms="714" status="PASS">
+        <test-method signature="user_clicks_on_login_button_from_myaccount()[pri:1, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-08-21T16:59:23 IST" name="user_clicks_on_login_button_from_myaccount" finished-at="2023-08-21T16:59:24 IST" duration-ms="757" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_clicks_on_login_button_from_myaccount -->
-        <test-method signature="verify_forgotten_password_functionality()[pri:2, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-07-23T22:22:15 IST" name="verify_forgotten_password_functionality" finished-at="2023-07-23T22:22:17 IST" depends-on-methods="actualTests.ForgottenPassword.user_clicks_on_login_button_from_myaccount" duration-ms="1934" status="PASS">
+        <test-method signature="verify_forgotten_password_functionality()[pri:2, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-08-21T16:59:24 IST" name="verify_forgotten_password_functionality" finished-at="2023-08-21T16:59:26 IST" depends-on-methods="actualTests.ForgottenPassword.user_clicks_on_login_button_from_myaccount" duration-ms="1868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_forgotten_password_functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-07-23T22:22:17 IST" name="tearDown" finished-at="2023-07-23T22:22:17 IST" duration-ms="923" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.ForgottenPassword@3de8f619]" started-at="2023-08-21T16:59:26 IST" name="tearDown" finished-at="2023-08-21T16:59:27 IST" duration-ms="908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- actualTests.ForgottenPassword -->
       <class name="actualTests.LoginLogout">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:21:27 IST" name="setup" finished-at="2023-07-23T22:21:36 IST" duration-ms="9288" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:58:39 IST" name="setup" finished-at="2023-08-21T16:58:47 IST" duration-ms="8181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_navigates_to_login_page()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:21:36 IST" name="user_navigates_to_login_page" finished-at="2023-07-23T22:21:37 IST" duration-ms="677" status="PASS">
+        <test-method signature="user_navigates_to_login_page()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:58:47 IST" name="user_navigates_to_login_page" finished-at="2023-08-21T16:58:48 IST" duration-ms="761" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_navigates_to_login_page -->
-        <test-method signature="user_successfull_login()[pri:1, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:21:37 IST" name="user_successfull_login" finished-at="2023-07-23T22:21:39 IST" depends-on-methods="actualTests.LoginLogout.user_navigates_to_login_page" duration-ms="1529" status="PASS">
+        <test-method signature="user_successfull_login()[pri:1, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:58:48 IST" name="user_successfull_login" finished-at="2023-08-21T16:58:50 IST" depends-on-methods="actualTests.LoginLogout.user_navigates_to_login_page" duration-ms="1679" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_successfull_login -->
-        <test-method signature="user_successfully_logged_in()[pri:2, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:21:39 IST" name="user_successfully_logged_in" finished-at="2023-07-23T22:21:49 IST" depends-on-methods="actualTests.LoginLogout.user_successfull_login" duration-ms="10245" status="PASS">
+        <test-method signature="user_successfully_logged_in()[pri:2, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:58:50 IST" name="user_successfully_logged_in" finished-at="2023-08-21T16:59:00 IST" depends-on-methods="actualTests.LoginLogout.user_successfull_login" duration-ms="10212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_successfully_logged_in -->
-        <test-method signature="user_clicks_on_account_logout()[pri:3, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:21:49 IST" name="user_clicks_on_account_logout" finished-at="2023-07-23T22:22:03 IST" depends-on-methods="actualTests.LoginLogout.user_successfully_logged_in" duration-ms="14576" status="PASS">
+        <test-method signature="user_clicks_on_account_logout()[pri:3, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:59:00 IST" name="user_clicks_on_account_logout" finished-at="2023-08-21T16:59:15 IST" depends-on-methods="actualTests.LoginLogout.user_successfully_logged_in" duration-ms="14593" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_clicks_on_account_logout -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-07-23T22:22:03 IST" name="tearDown" finished-at="2023-07-23T22:22:04 IST" duration-ms="1007" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.LoginLogout@710636b0]" started-at="2023-08-21T16:59:15 IST" name="tearDown" finished-at="2023-08-21T16:59:16 IST" duration-ms="979" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- actualTests.LoginLogout -->
       <class name="actualTests.PlaceOrderAsGuest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-07-23T22:22:17 IST" name="setup" finished-at="2023-07-23T22:22:27 IST" duration-ms="9149" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-08-21T16:59:27 IST" name="setup" finished-at="2023-08-21T16:59:36 IST" duration-ms="9442" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-07-23T22:22:27 IST" name="user_opens_the_application" finished-at="2023-07-23T22:22:27 IST" duration-ms="1" status="PASS">
+        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-08-21T16:59:36 IST" name="user_opens_the_application" finished-at="2023-08-21T16:59:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_opens_the_application -->
-        <test-method signature="user_proceeding_for_checkout_product_as_guest()[pri:1, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-07-23T22:22:27 IST" name="user_proceeding_for_checkout_product_as_guest" finished-at="2023-07-23T22:22:49 IST" duration-ms="22646" status="PASS">
+        <test-method signature="user_proceeding_for_checkout_product_as_guest()[pri:1, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-08-21T16:59:36 IST" name="user_proceeding_for_checkout_product_as_guest" finished-at="2023-08-21T16:59:59 IST" duration-ms="22675" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_proceeding_for_checkout_product_as_guest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-07-23T22:22:49 IST" name="tearDown" finished-at="2023-07-23T22:22:50 IST" duration-ms="1000" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.PlaceOrderAsGuest@2ab4bc72]" started-at="2023-08-21T16:59:59 IST" name="tearDown" finished-at="2023-08-21T17:00:00 IST" duration-ms="1002" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- actualTests.PlaceOrderAsGuest -->
       <class name="actualTests.ProductSearch">
-        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:20:55 IST" name="setup" finished-at="2023-07-23T22:21:06 IST" duration-ms="10723" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:07 IST" name="setup" finished-at="2023-08-21T16:58:20 IST" duration-ms="13086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:21:06 IST" name="user_opens_the_application" finished-at="2023-07-23T22:21:06 IST" duration-ms="6" status="PASS">
+        <test-method signature="user_opens_the_application()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:20 IST" name="user_opens_the_application" finished-at="2023-08-21T16:58:20 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_opens_the_application -->
-        <test-method signature="user_enters_valid_product_into_search_box_field()[pri:1, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:21:06 IST" name="user_enters_valid_product_into_search_box_field" finished-at="2023-07-23T22:21:06 IST" duration-ms="269" status="PASS">
+        <test-method signature="user_enters_valid_product_into_search_box_field()[pri:1, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:20 IST" name="user_enters_valid_product_into_search_box_field" finished-at="2023-08-21T16:58:20 IST" duration-ms="299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_enters_valid_product_into_search_box_field -->
-        <test-method signature="user_clicks_on_search_button()[pri:2, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:21:06 IST" name="user_clicks_on_search_button" finished-at="2023-07-23T22:21:07 IST" duration-ms="818" status="PASS">
+        <test-method signature="user_clicks_on_search_button()[pri:2, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:20 IST" name="user_clicks_on_search_button" finished-at="2023-08-21T16:58:21 IST" duration-ms="751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_clicks_on_search_button -->
-        <test-method signature="user_should_get_valid_product_displayed_in_search_results()[pri:3, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:21:07 IST" name="user_should_get_valid_product_displayed_in_search_results" finished-at="2023-07-23T22:21:07 IST" duration-ms="254" status="PASS">
+        <test-method signature="user_should_get_valid_product_displayed_in_search_results()[pri:3, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:21 IST" name="user_should_get_valid_product_displayed_in_search_results" finished-at="2023-08-21T16:58:21 IST" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_should_get_valid_product_displayed_in_search_results -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-07-23T22:21:07 IST" name="tearDown" finished-at="2023-07-23T22:21:08 IST" duration-ms="957" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:actualTests.ProductSearch@6f53b8a]" started-at="2023-08-21T16:58:21 IST" name="tearDown" finished-at="2023-08-21T16:58:22 IST" duration-ms="898" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
